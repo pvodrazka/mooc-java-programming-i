@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part04_03.DogAttributes" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="DogAttributes" />
+    <module name="Part04_03.DogAttributes" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
